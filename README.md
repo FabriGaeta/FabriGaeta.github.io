@@ -1,4 +1,3 @@
-# FabriGaeta.github.io
 <!doctype html>
 <html lang="en-us">
 

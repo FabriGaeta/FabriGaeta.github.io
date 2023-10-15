@@ -256,7 +256,7 @@
       };
     };
   </script>
-  <script async type="text/javascript" src="asteroidsimple.js"></script>
+  <script async type="text/javascript" src="snake.js.js"></script>
 </body>
 
 </html>
